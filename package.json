@@ -1,0 +1,17 @@
+{
+  "name": "desplegando-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/HakDev-sudo/LAB08_DWA",
+  "author": "Nilton Hua Tac <nilton.huayroccacya@tecsup.edu.pe>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "dotenv": "^16.5.0",
+    "nodemon": "^3.1.10"
+  }
+}
